@@ -15,25 +15,37 @@ My focus is on practical software development using C++, data structures, and in
 I am passionate about applying artificial intelligence and machine learning concepts to solve real-world problems.
 
 ---
+## 📫 Connect
 
-## 🧠 Technical Skills
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amna.zahra.2405@gmail.com)
 
-### 💻 Programming Languages
-- C++
-- Python
-- SQL
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amna-tuz-Zahra)
 
-### 🤖 AI / Machine Learning
-- PyTorch
-- TensorFlow
-- Scikit-Learn
 
-### 🛠 Developer Tools
-- Git
-- CMake
-- vcpkg
+## 🧠 Tech Stack
+
+### 💻 Languages
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
+
+### 🤖 AI & ML
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+---
+
+### 🛠 Developer Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![vcpkg](https://img.shields.io/badge/vcpkg-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white)
+
 
 ## 📂 Featured Projects
 
