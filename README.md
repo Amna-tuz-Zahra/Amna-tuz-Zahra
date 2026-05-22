@@ -47,6 +47,7 @@ I am passionate about applying artificial intelligence and machine learning conc
 ![vcpkg](https://img.shields.io/badge/vcpkg-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white)
 
 
+
 ## 📂 Featured Projects
 
 ### 📊 StockFlow
@@ -67,15 +68,14 @@ A custom database management system designed and implemented for the Al-Qaim Fou
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Amna-tuz-Zahra&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Amna-tuz-Zahra&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Amna-tuz-Zahra&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Amna-tuz-Zahra&theme=tokyonight&hide_border=true" height="165"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amna-tuz-Zahra&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amna-tuz-Zahra&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
----
 
 ## 📫 Contact
 
