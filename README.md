@@ -47,12 +47,6 @@ A custom database management system designed and implemented for the Al-Qaim Fou
 
 ---
 
-### 📊 GitHub Stats
-
-![Amna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amna-tuz-Zahra&show_icons=true&include_all_commits=true&theme=default)
-
----
-
 ### 📫 Contact & Links
 
 * **GitHub:** [Amna-tuz-Zahra](https://github.com/Amna-tuz-Zahra)
