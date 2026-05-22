@@ -74,7 +74,7 @@ A custom database management system designed and implemented for the Al-Qaim Fou
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Amna-tuz-Zahra&show_icons=true&theme=github_light&hide_border=true&count_private=true" alt="Amna-tuz-Zahra's GitHub Stats" height="180px" />
   </a>
   <a href="https://github.com/Amna-tuz-Zahra">
-    <img src="https://streak-stats.demolab.com/?user=Amna-tuz-Zahra&theme=github-light&hide_border=true" alt="Amna-tuz-Zahra's GitHub Streak" height="180px" />
+    <img src="https://streak-stats.demolab.com/?user=Amna-tuz-Zahra&theme=github_light&hide_border=true&cache_buster=2026" alt="Amna-tuz-Zahra's GitHub Streak" height="180px" />
   </a>
 </p>
 
