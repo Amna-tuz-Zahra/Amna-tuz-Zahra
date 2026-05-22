@@ -85,6 +85,7 @@ A custom database management system designed and implemented for the Al-Qaim Fou
 </p>
 ---
 
-     ⭐ Building AI systems with C++ and Machine Learning ⭐
-
+<p align="center">
+⭐ Building AI systems with C++ and Machine Learning ⭐
+</p>
 </div>
