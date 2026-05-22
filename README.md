@@ -67,13 +67,22 @@ A custom database management system designed and implemented for the Al-Qaim Fou
 
 ## 📊 GitHub Activity
 
-<div align="center">
+<h3 align="center">📊 GitHub Activity & Metrics</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Amna-tuz-Zahra&show_icons=true&theme=tokyonight" height="160"/>
+<p align="center">
+  <a href="https://github.com/Amna-tuz-Zahra">
+    <img src="https://github-readme-stats.vercel.app/api?username=Amna-tuz-Zahra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Amna-tuz-Zahra's GitHub Stats" height="180px" />
+  </a>
+  <a href="https://github.com/Amna-tuz-Zahra">
+    <img src="https://streak-stats.demolab.com/?user=Amna-tuz-Zahra&theme=tokyonight&hide_border=true" alt="Amna-tuz-Zahra's GitHub Streak" height="180px" />
+  </a>
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amna-tuz-Zahra&theme=tokyonight" height="160"/>
-
-</div>
+<p align="center">
+  <a href="https://github.com/Amna-tuz-Zahra">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amna-tuz-Zahra&layout=compact&theme=tokyonight&hide_border=true" alt="Amna-tuz-Zahra's Top Languages" height="180px" />
+  </a>
+</p>
 
 ---
 
