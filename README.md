@@ -49,7 +49,7 @@ A custom database management system designed and implemented for the Al-Qaim Fou
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amna-tuz-Zahra&show_icons=true&theme=default)
+![Amna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amna-tuz-Zahra&show_icons=true&include_all_commits=true&theme=default)
 
 ---
 
