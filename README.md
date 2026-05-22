@@ -71,16 +71,16 @@ A custom database management system designed and implemented for the Al-Qaim Fou
 
 <p align="center">
   <a href="https://github.com/Amna-tuz-Zahra">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Amna-tuz-Zahra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Amna-tuz-Zahra's GitHub Stats" height="180px" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Amna-tuz-Zahra&show_icons=true&theme=github_light&hide_border=true&count_private=true" alt="Amna-tuz-Zahra's GitHub Stats" height="180px" />
   </a>
   <a href="https://github.com/Amna-tuz-Zahra">
-    <img src="https://streak-stats.demolab.com/?user=Amna-tuz-Zahra&theme=tokyonight&hide_border=true" alt="Amna-tuz-Zahra's GitHub Streak" height="180px" />
+    <img src="https://streak-stats.demolab.com/?user=Amna-tuz-Zahra&theme=default&hide_border=true" alt="Amna-tuz-Zahra's GitHub Streak" height="180px" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Amna-tuz-Zahra">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Amna-tuz-Zahra&layout=compact&theme=tokyonight&hide_border=true" alt="Amna-tuz-Zahra's Top Languages" height="180px" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Amna-tuz-Zahra&layout=compact&theme=github_light&hide_border=true" alt="Amna-tuz-Zahra's Top Languages" height="180px" />
   </a>
 </p>
 ---
