@@ -54,11 +54,11 @@ I am passionate about applying artificial intelligence and machine learning conc
 ### 📊 StockFlow
 An in-memory C++17 supply chain risk simulation engine utilizing standard data structures (Hash Maps, Priority Queues, Stacks, Queues) and the Crow C++ web framework.
 
-### 🏥 MediMate
-A health and wellness planning system generating personalized diet and fitness recommendations.
-
 ### ♿ Impair
 An assistive technology application built as a group project to enhance accessibility and aid individuals with visual or physical impairments. *(Contributor)*
+
+### 🏥 MediMate
+A health and wellness planning system generating personalized diet and fitness recommendations.
 
 ### 🗄️ Database-Project-Al-Qaim-Foundation
 A custom database management system designed and implemented for the Al-Qaim Foundation to optimize record tracking and resource allocation. *(Contributor)*
